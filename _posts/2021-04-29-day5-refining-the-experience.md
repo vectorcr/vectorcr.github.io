@@ -1,9 +1,9 @@
 ---
-layout: Post
 Title: "Day5 refining the experience"
 ---
 
-# The final round of configurations
+
+# The final round of configurations...hopefully >< 
 
 Last I wrote I thought I was done with the configuration phase of this project. That I had finally gotten to a point where I was comfortable and I had everything that I needed. While neovim has a lot of great features there is still just a lack of simple-to-follow documentation for some of the more complex plugins.
 
