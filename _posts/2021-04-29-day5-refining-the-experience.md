@@ -15,3 +15,7 @@ It was a no-brainer at the moment to jump right into the newer version and just 
 Alas…if things were that simple. You see the earlier workstation that I installed didn’t have to support the drivers for my GPU. I saw some solutions online but none that were reliable. I would attempt to plugin my secondary monitor and the entire computer would freeze. Needless to say, I learned my lesson about jumping to a new version without doing some research on the packages that I was running.
 
 Luckily I had another workstation that was running nothing but intel software that was able to update to Fedora 34 with no problems. I ended up installing Fedora 33 on the G3 that had native support for the akmod Nvidia package. I decided to turn that workstation into a gaming box. While I was setting all that up I learned that there have been a few milestones hit by the proton team and that the list of support games has greatly increased since last I checked.
+
+Also I tackled some basic styling for the blog. I figured I should make it more presentable now that people are actually checking out the site from time to time. You can check out these changes by going to [Vectocr.github.io](https://vectorcr.github.io)
+
+I think I am going to leave it here for the night. This weekend I am going to tackle some of the courses outline in the developers roadmap.
