@@ -1,4 +1,5 @@
 ---
+layout: posts
 Title: "Day5 refining the experience"
 ---
 

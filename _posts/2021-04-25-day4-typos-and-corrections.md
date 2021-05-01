@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: 'Day4 : Typos / corrections/ Developer Roadmap/ WakaTime Tracking'
 ---
 # Day4: Typos and Corrections / Developer Roadmap / WakaTime Tracking
@@ -27,7 +28,6 @@ I have been using [WakaTime](https://bit.ly/3vmFUD0) for years now. WakaTime all
 I can run ``tail -f ~/.wakatime.log`` after enabling ``:WakaTimeDebugEnable`` from nvim for diagnostics as well. You can also find out how much time you have reported within 24 hours running ``:WakaTimeToday``
 ![](/assets/images/d4wakatimetoday.png)
 
-I thought it would be fun to embed the data in the post and also on the main blog site for anyone interested in seeing the damage in the upcoming months. I am sure that the diversity of languages, enviroments and projects will grow. 
-<figure><embed src="https://wakatime.com/share/@Lorenzovectorcr/436def8a-8d63-4811-8b78-322c99506936.svg"></embed></figure>
+I thought it would be fun to embed the data in the post and also on the main blog site for anyone interested in seeing the damage in the upcoming months. I am sure that the diversity of languages, enviroments and projects will grow.
 
 That covers today :)
