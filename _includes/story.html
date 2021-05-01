@@ -1,6 +1,6 @@
 <div class="container-fluid mt-5">
   <div class="row">
-    <div class="col">
+    <div class="col-sm-6 col-md-8">
       <div class="row mt-5">
         <div class="col">
           <h1 class="text-center">🚀 Hello world. 🚀</h1>
@@ -15,7 +15,7 @@
       </div>
       <div class="row mt-5">
         <div class="row">
-          <div class="col-sm-12 cold-md-2 m-2">
+          <div class="col-sm-12 col-md-2">
             <img class="img-fluid rounded-circle d-block" src="/assets/images/profilepic.jpg"
               alt="Profile Picture as of 2020" />
           </div>
@@ -68,13 +68,8 @@
       </div>
       {% include stats.html %}
     </div>
-    <div class="col-sm-6 col-md-4">
-      <div class="mt-5">
-        {% include blogs.html %}
-      </div>
-
+    <div class="col">
+      {% include blogs.html %}
     </div>
   </div>
-
-
 </div>

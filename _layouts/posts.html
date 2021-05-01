@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
-
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta charset="utf-8" />
-    {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
-</head>
-{% include navbar.html %}
+---
+layout: default
+---
 
 <body>
     <div class="container mt-5 mb-5">
         {{ content }}
     </div>
-
-    {% include stats.html %}
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div class="container">
+        {% include stats.html %}
+    </div>
     {% include footer.html %}
 </body>
 
