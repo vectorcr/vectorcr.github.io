@@ -10,7 +10,7 @@ group :jekyll_plugins do
 #  gem 'jekyll-sitemap'
 #  gem 'jekyll-seo-tag'
 gem 'jekyll-autoprefixer'
-#  gem 'unf_ext'
-# gem 'commonmarker'
+#gem 'unf_ext'
+gem 'commonmarker'
 
 end
